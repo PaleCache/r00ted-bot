@@ -1,0 +1,12 @@
+{
+  "name": "chat-test-bot",
+  "version": "0.0.1",
+  "description": "Test bot for embed commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.7.5"
+  }
+}
